@@ -1,0 +1,35 @@
+body {
+    
+    background-image: url("images/pic3.jfif") 
+}
+    
+        .img1{
+            display: flex;
+            justify-content: space-between;
+            size-adjust: 100px;           
+        }
+       
+        .header{
+            font-weight: bolder;
+            font-size: 50px;
+        }
+        .intro{
+            font-size: 20px
+        }
+        .subheader1{
+            font-weight: bold
+            font-size = 35px;  
+        }
+        .subheader2{
+            font-weight: bold;
+            font-size: 35px;
+        }
+        .subheader3{
+            font-weight: bold;
+            font-size: 35px;
+        }
+        .subheader4{
+            font-weight: bold;
+            font-size: 35px;
+        }
+    
