@@ -5,8 +5,8 @@ body {
     
         .img1{
             display: flex;
-            justify-content: space-between;
-            size-adjust: 100px;           
+            
+                       
         }
        
         .header{
