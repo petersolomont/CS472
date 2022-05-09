@@ -10,7 +10,7 @@ function main(){
     }
 console.log("<br> x4 is" + x);
 var x =40;
-let x=20;
+//let x=20;
 console.log(x);
 var f= function(x){
     console.log("<br>x5 is " + x);
