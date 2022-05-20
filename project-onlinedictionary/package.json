@@ -1,3 +1,4 @@
+
 {
   "name": "visualcodeprojects",
   "version": "1.0.0",
@@ -5,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Shewit Hagos",
+  "author": "Petros Solomon",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1",
